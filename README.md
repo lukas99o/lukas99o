@@ -6,13 +6,13 @@ Jag är en nyexaminerad .NET Fullstack-utvecklare från Sverige med en passion f
 - 💻 Kodning och problemlösning
 - 🎮 Videospel (allt från retro till nytt)
 - 🧠 Smarta och kreativa lösningar
-- 🏋️‍♂️ Styrke- och konditionsträning
+- 🏋️‍♂️ Styrke och konditionsträning
 - 📚 Slumpmässiga böcker och nördiga sidoprojekt
 
 ## 🌱 Just nu
 - Skapar egna projekt för att utvecklas som utvecklare
 - Håller mig uppdaterad inom .NET, React, TypeScript och annat kul
-- Öppen för samarbeten – allt som är roligt och lärorikt är intressant!
+- Öppen för samarbeten, allt som är roligt och lärorikt är intressant!
 
 ## 📫 Kontakta mig
 **Mail:** lukas99o@hotmail.com  
