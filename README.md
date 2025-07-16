@@ -1,6 +1,6 @@
 # 👋 Hej där, jag heter Lukas!
 
-Jag är en nyexaminerad .NET Fullstack-utvecklare från Sverige med en passion för smarta lösningar, snygg kod och roliga projekt. Jag blev nyligen klar med min utbildning på **Chas Academy** (examen 2025), och nu är jag taggad på att fortsätta bygga, lära mig nytt och bidra till spännande samarbeten.
+Jag är en .NET Fullstack-utvecklare från Sverige med en passion för smarta lösningar, snygg kod och roliga projekt. 
 
 ## 👀 Vad jag gillar
 - 💻 Kodning och problemlösning
