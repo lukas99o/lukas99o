@@ -16,6 +16,7 @@ Jag är en .NET Fullstackutvecklare med passion och är starkt driven att lösa 
 
 ## 📫 Kontakta mig
 **Mail:** lukas99o@hotmail.com  
+**Telefon:** +46 76 292 01 63  
 **LinkedIn:** https://www.linkedin.com/in/lukas-olsson-b26797265
 
 ## 🧩 Besök mitt portfolio
