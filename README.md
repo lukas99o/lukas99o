@@ -1,4 +1,4 @@
-# 👋 Hej där, jag är Lukas!
+# 👋 Hej där!
 
 Jag är en .NET Fullstackutvecklare med passion och är starkt driven att lösa verkliga problem. Jag älskar programmering och söker nu jobb inom .Net/.Net Fullstack. Om du har något tips får du jätte gärna höra av dig! Btw utmana mig inte i Smash, Mario Kart eller liknande jag är en riktig jävel.
 
