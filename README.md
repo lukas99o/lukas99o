@@ -1,26 +1,17 @@
-# 👋 Hej där!
+# Tjena!
 
-Jag är en .NET Fullstackutvecklare med passion och är starkt driven att lösa verkliga problem. Jag älskar programmering och söker nu jobb inom .Net/.Net Fullstack. Om du har något tips får du jätte gärna höra av dig! Btw utmana mig inte i Smash, Mario Kart eller liknande jag är en riktig jävel.
+Jag är en .NET Fullstackutvecklare. Jag älskar programmering och problemlösning och söker nu jobb inom .Net/.Net Fullstack eller annat liknande. Om du har något tips får du jätte gärna höra av dig! Btw utmana mig inte i Smash, Mario Kart eller liknande jag är en riktig jävel.
 
-## 👀 Vad jag gillar
-- 💻 Kodning och problemlösning
-- 🎮 Videospel (allt från retro till nytt)
-- 🧠 Smarta och kreativa lösningar
-- 🏋️‍♂️ Styrke, konditionsträning och kampsport
-- 📚 Lärorika böcker och nördiga sidoprojekt
+## Lite av vad jag gillar
+- Kodning och problemlösning
+- Tv Spel
+- Strenght training, cardio och friluftsliv 
 
-## 🌱 Just nu
-- Skapar egna projekt för att utvecklas som utvecklare, inspireras och lösa verkliga problem.
-- Håller mig uppdaterad inom .NET, React, AI, Azure, CI/CD och annat kul.
-- Öppen för samarbeten, allt som är roligt, meningsfullt och lärorikt är intressant!
-
-## 📫 Kontakta mig
+## Kontakta mig
 **Mail:** lukas99o@hotmail.com  
-**Telefon:** +46 76 292 01 63  
-**LinkedIn:** https://www.linkedin.com/in/lukas-olsson-b26797265
 
-## 🧩 Besök mitt portfolio
-**Link:** https://www.lukas99o.com
+## Mitt portfolio
+**Link:** https://lukas99o.com
 
 ---
 
